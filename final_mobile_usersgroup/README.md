@@ -1,6 +1,6 @@
 # Исследование метрик мобильного приложения
 
-[ipynb](https://github.com/josephbaib/praktikum_da/blob/main/mobile_usersgroup/mobile_app_usersgroup.ipynb)
+[ipynb](https://github.com/josephbaib/praktikum_da/blob/main/final_mobile_usersgroup/mobile_app_usersgroup.ipynb)
 
 ## Описание проекта
 
