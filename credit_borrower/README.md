@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков
 
-[ipynb] (https://github.com/josephbaib/praktikum_da/blob/main/credit_borrower/credit_borrower_project.ipynb)
+[ipynb](https://github.com/josephbaib/praktikum_da/blob/main/credit_borrower/credit_borrower_project.ipynb)
 
 ## Описание проекта
 
