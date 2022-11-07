@@ -1,1 +1,1 @@
-# praktikum_da
+# Портфолио проектов (Data Analyst)
